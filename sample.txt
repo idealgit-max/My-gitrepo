@@ -1,2 +1,6 @@
 This is a sample file created to test pull request
+<<<<<<< HEAD
 changes are subjective
+=======
+Changes are moderate
+>>>>>>> bcf210fb6a76bc5d672a5a0ebc7f6bb0943fc695
